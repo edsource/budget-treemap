@@ -1,0 +1,277 @@
+{
+    "name": "2017-18 Prop. 98 increase",
+    "rate": 1,
+    "parentRate": 1,
+    "children": [
+        {
+            "name": "Preschool",
+            "rate": 0.0433,
+            "parentRate": 0.0433,
+            "color": "purple",            
+            "children": [
+                {
+                    "name": "Increased funding for home and non-center-based child care providers",
+                    "rate": 0.0269,
+                    "parentRate": 0.6200,
+                    "value": 84217000
+                },
+                {
+                    "name": "Increase state reimbursement rate for state-contracted child care providers",
+                    "rate": 0.0139,
+                    "parentRate": 0.3215,
+                    "value": 43667000
+                },
+                {
+                    "name": "2,959 additional full-day openings in state preschools",
+                    "rate": 0.0025,
+                    "parentRate": 0.0585,
+                    "value": 7944000
+                }
+            ]
+        },
+        {
+            "name": "K-12",
+            "rate": 0.7590,
+            "parentRate": 0.7590,
+            "color": "green",
+            "children": [
+                {
+                    "name": "Local Control Funding Formula",
+                    "rate": 0.4483,
+                    "parentRate": 0.5907,
+                    "value": 1362383000                    
+                },
+                {
+                    "name": "One-time discretionary funding",
+                    "rate": 0.2797,
+                    "parentRate": 0.3686,
+                    "value": 876581000
+                },
+                {
+                    "name": "Other one-time spending",
+                    "rate": 0.0212,
+                    "parentRate": 0.0016,
+                    "children": [
+                        {
+                            "name": "Develop electronic LCAP template",
+                            "rate": 0.0001,
+                            "parentRate": 0.0073,
+                            "value": 350000
+                        },
+                        {
+                            "name": "Classified employee credential program",
+                            "rate": 0.0080,
+                            "parentRate": 0.5219,
+                            "value": 25000000
+                        },
+                        {
+                            "name": "Bilingual teacher professional development",
+                            "rate": 0.0016,
+                            "parentRate": 0.1044,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Refugee student support",
+                            "rate": 0.0032,
+                            "parentRate": 0.2088,
+                            "value": 10000000
+                        },
+                        {
+                            "name": "History social science pilot",
+                            "rate": 0.0016,
+                            "parentRate": 0.1044,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Grants to promote equity in school districts",
+                            "rate": 0.0008,
+                            "parentRate": 0.0522,
+                            "value": 2500000
+                        }
+                    ]
+                },
+                {
+                    "name": "Other program increases",
+                    "rate": 0.0296,
+                    "parentRate": 0.383,
+                    "children": [
+                        {
+                            "name": "Mandated reporter trainings to recognize and report child abuse",
+                            "rate": 0.0027,
+                            "parentRate": 0.0913,
+                            "value": 8479000
+                        },
+                        {
+                            "name": "Support for Southern CA Regional Occupational Center",
+                            "rate": 0.0013,
+                            "parentRate": 0.0431,
+                            "value": 4000000
+                        },
+                        {
+                            "name": "Increase for after-school/summer programs",
+                            "rate": 0.0160,
+                            "parentRate": 0.5384,
+                            "value": 50000000
+                        },
+                        {
+                            "name": "Continued funding for career pathways programs",
+                            "rate": 0.0049,
+                            "parentRate": 0.1654,
+                            "value": 15360000
+                        },
+                        {
+                            "name": "Cost-of-living increase to block grants for mandated programs",
+                            "rate": 0.0011,
+                            "parentRate": 0.0381,
+                            "value": 3535000
+                        },
+                        {
+                            "name": "Added funding for county offices' LCAP Support",
+                            "rate": 0.0022,
+                            "parentRate": 0.0754,
+                            "value": 7000000
+                        },
+                        {
+                            "name": "California-grown freshly prepared school meals funding",
+                            "rate": 0.0005,
+                            "parentRate": 0.0162,
+                            "value": 1500000
+                        },
+                        {
+                            "name": "Funding for California State Library",
+                            "rate": 0.0010,
+                            "parentRate": 0.0323,
+                            "value": 3000000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Community colleges",
+            "rate": 0.1538,
+            "parentRate": 0.1538,
+            "color": "aqua",            
+            "children": [
+                {
+                    "name": "Base increase",
+                    "rate": 0.0586,
+                    "parentRate": 0.3810,
+                    "value": 183620000
+                },
+                {
+                    "name": "One-time funding",
+                    "rate": 0.0531,
+                    "parentRate": 0.3455,
+                    "children": [
+                        {
+                            "name": "Fund deferred maintenance and instructional equipment",
+                            "rate": 0.0245,
+                            "parentRate": 0.4615,
+                            "value": 76859000
+                        },
+                        {
+                            "name": "Fund guided pathways program",
+                            "rate": 0.0203,
+                            "parentRate": 0.3824,
+                            "value": 63680000
+                        },
+                        {
+                            "name": "Fund innovation awards",
+                            "rate": 0.0064,
+                            "parentRate": 0.1201,
+                            "value": 20000000
+                        },
+                        {
+                            "name": "Fund integrated library system",
+                            "rate": 0.0019,
+                            "parentRate": 0.0360,
+                            "value": 6000000
+                        }
+                    ]
+                },
+                {
+                    "name": "Other Expenses",
+                    "rate": 0.0421,
+                    "parentRate": 0.2735,
+                    "children": [
+                        {
+                            "name": "Fund enrollment growth",
+                            "rate": 0.0184,
+                            "parentRate": 0.4385,
+                            "value": 57794000
+                        },
+                        {
+                            "name": "Augment online education initiative",
+                            "rate": 0.0032,
+                            "parentRate": 0.0759,
+                            "value": 10000000
+                        },
+                        {
+                            "name": "Increase full-time student success grant",
+                            "rate": 0.0080,
+                            "parentRate": 0.1898,
+                            "value": 25013000
+                        },
+                        {
+                            "name": "Augment part-time faculty office hours",
+                            "rate": 0.0016,
+                            "parentRate": 0.0379,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Augment funding for financial aid administration",
+                            "rate": 0.0003,
+                            "parentRate": 0.0076,
+                            "value": 1000000
+                        },
+                        {
+                            "name": "Fund community college completion grant",
+                            "rate": 0.0080,
+                            "parentRate": 0.1897,
+                            "value": 25000000
+                        },
+                        {
+                            "name": "Mandates block grant cost-of-living adjustment",
+                            "rate": 0.0002,
+                            "parentRate": 0.0038,
+                            "value": 503000
+                        },
+                        {
+                            "name": "Funding for veterans resource centers",
+                            "rate": 0.0016,
+                            "parentRate": 0.0379,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Fund Umoja program",
+                            "rate": 0.0008,
+                            "parentRate": 0.0190,
+                            "value": 2500000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cost of living adjustments",
+            "rate": 0.0439,
+            "parentRate": 0.0439,
+            "color": "yellow",            
+            "children": [
+                {
+                    "name": "Provide 1.56 percent cost-of-living for select K-12 categorical programs",
+                    "rate": 0.0245,
+                    "parentRate": 0.5589,
+                    "value": 76851000
+                },
+                {
+                    "name": "Provide 1.56 percent cost-of-living for community colleges",
+                    "rate": 0.0326,
+                    "parentRate": 0.7420,
+                    "value": 102030000
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "name": "2017 Education Budget Increase",
+    "rate": 1,
+    "parentRate": 1,
+    "children": [
+        {
+            "name": "Preschool",
+            "rate": 0.0433,
+            "parentRate": 0.0433,
+            "color": "purple",            
+            "children": [
+                {
+                    "name": "Annualize 2016 - 2017 rate and slot increases",
+                    "rate": 0.0269,
+                    "parentRate": 0.6200,
+                    "value": 84217000
+                },
+                {
+                    "name": "Increase SRR (Governor proposes 6 percent increase)",
+                    "rate": 0.0139,
+                    "parentRate": 0.3215,
+                    "value": 43667000
+                },
+                {
+                    "name": "Add full-day slots (Governor proposes 2,596 slots to LEAs)",
+                    "rate": 0.0025,
+                    "parentRate": 0.0585,
+                    "value": 7944000
+                }
+            ]
+        },
+        {
+            "name": "K12",
+            "rate": 0.7590,
+            "parentRate": 0.7590,
+            "color": "green",
+            "children": [
+                {
+                    "name": "LCFF",
+                    "rate": 0.4483,
+                    "parentRate": 0.5907,
+                    "children": [
+                        {
+                            "name": "Fund LCFF increase for school districts (General Fund share)",
+                            "rate": 0.4348,
+                            "parentRate": 0.9697,
+                            "value": 1362383000
+                        },
+                        {
+                            "name": "Fund LCFF increase for school districts (basic aid excess tax share)",
+                            "rate": 0.0136,
+                            "parentRate": 0.0303,
+                            "value": 42519000
+                        }
+                    ]
+                },
+                {
+                    "name": "One-time Discretionary Funding",
+                    "rate": 0.2797,
+                    "parentRate": 0.3686,
+                    "value": 876581000
+                },
+                {
+                    "name": "Other One-Time Funding",
+                    "rate": 0.0212,
+                    "parentRate": 0.0016,
+                    "children": [
+                        {
+                            "name": "Develop electronic LCAP template",
+                            "rate": 0.0001,
+                            "parentRate": 0.0073,
+                            "value": 350000
+                        },
+                        {
+                            "name": "Classified Employee Credential Program (One-Time)",
+                            "rate": 0.0080,
+                            "parentRate": 0.5219,
+                            "value": 25000000
+                        },
+                        {
+                            "name": "Bilingual Teacher Professional Development (One-Time)",
+                            "rate": 0.0016,
+                            "parentRate": 0.1044,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Refugee Student Support (One-Time)",
+                            "rate": 0.0032,
+                            "parentRate": 0.2088,
+                            "value": 10000000
+                        },
+                        {
+                            "name": "History Social Science Pilot (One-Time)",
+                            "rate": 0.0016,
+                            "parentRate": 0.1044,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Equity Diversification-Closing the Gap (one-time)",
+                            "rate": 0.0008,
+                            "parentRate": 0.0522,
+                            "value": 2500000
+                        }
+                    ]
+                },
+                {
+                    "name": "Other Expenses",
+                    "rate": 0.0296,
+                    "parentRate": 0.383,
+                    "children": [
+                        {
+                            "name": "Add mandated reporter training to Mandate Block Grant",
+                            "rate": 0.0027,
+                            "parentRate": 0.0913,
+                            "value": 8479000
+                        },
+                        {
+                            "name": "Support Southern California Regional Occupational Center",
+                            "rate": 0.0013,
+                            "parentRate": 0.0431,
+                            "value": 4000000
+                        },
+                        {
+                            "name": "Augment After School Education and Safety Program",
+                            "rate": 0.0160,
+                            "parentRate": 0.5384,
+                            "value": 50000000
+                        },
+                        {
+                            "name": "Restore CTE Pathways Program",
+                            "rate": 0.0049,
+                            "parentRate": 0.1654,
+                            "value": 15360000
+                        },
+                        {
+                            "name": "Provide COLA for the Mandates Block Grant",
+                            "rate": 0.0011,
+                            "parentRate": 0.0381,
+                            "value": 3535000
+                        },
+                        {
+                            "name": "County Office of Education LCAP Support (Ongoing)",
+                            "rate": 0.0022,
+                            "parentRate": 0.0754,
+                            "value": 7000000
+                        },
+                        {
+                            "name": "California-Grown Fresh School Meals Grant Program",
+                            "rate": 0.0005,
+                            "parentRate": 0.0162,
+                            "value": 1500000
+                        },
+                        {
+                            "name": "Riverside COE-California State Library",
+                            "rate": 0.0010,
+                            "parentRate": 0.0323,
+                            "value": 3000000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Community College",
+            "rate": 0.1538,
+            "parentRate": 0.1538,
+            "color": "aqua",            
+            "children": [
+                {
+                    "name": "Unallocated Base Increase",
+                    "rate": 0.0586,
+                    "parentRate": 0.3810,
+                    "value": 183620000
+                },
+                {
+                    "name": "One-Time Funding",
+                    "rate": 0.0531,
+                    "parentRate": 0.3455,
+                    "children": [
+                        {
+                            "name": "Fund deferred maintenance and instructional equipment (one time)",
+                            "rate": 0.0245,
+                            "parentRate": 0.4615,
+                            "value": 76859000
+                        },
+                        {
+                            "name": "Fund guided pathways program (one time)",
+                            "rate": 0.0203,
+                            "parentRate": 0.3824,
+                            "value": 63680000
+                        },
+                        {
+                            "name": "Fund Innovation Awards (one time)",
+                            "rate": 0.0064,
+                            "parentRate": 0.1201,
+                            "value": 20000000
+                        },
+                        {
+                            "name": "Fund integrated library system (one time)",
+                            "rate": 0.0019,
+                            "parentRate": 0.0360,
+                            "value": 6000000
+                        }
+                    ]
+                },
+                {
+                    "name": "Other Expenses",
+                    "rate": 0.0421,
+                    "parentRate": 0.2735,
+                    "children": [
+                        {
+                            "name": "Fund enrollment growth",
+                            "rate": 0.0184,
+                            "parentRate": 0.4385,
+                            "value": 57794000
+                        },
+                        {
+                            "name": "Augment Online Education Initiative",
+                            "rate": 0.0032,
+                            "parentRate": 0.0759,
+                            "value": 10000000
+                        },
+                        {
+                            "name": "Increase Full-Time Student Success Grant",
+                            "rate": 0.0080,
+                            "parentRate": 0.1898,
+                            "value": 25013000
+                        },
+                        {
+                            "name": "Augment Part Time Faculty Office Hours",
+                            "rate": 0.0016,
+                            "parentRate": 0.0379,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Augment funding for Financial Aid Administration",
+                            "rate": 0.0003,
+                            "parentRate": 0.0076,
+                            "value": 1000000
+                        },
+                        {
+                            "name": "Fund CCC Completion Grant",
+                            "rate": 0.0080,
+                            "parentRate": 0.1897,
+                            "value": 25000000
+                        },
+                        {
+                            "name": "Mandates Block Grant COLA",
+                            "rate": 0.0002,
+                            "parentRate": 0.0038,
+                            "value": 503000
+                        },
+                        {
+                            "name": "Funding for Veterans Resource Centers",
+                            "rate": 0.0016,
+                            "parentRate": 0.0379,
+                            "value": 5000000
+                        },
+                        {
+                            "name": "Fund Umoja Program",
+                            "rate": 0.0008,
+                            "parentRate": 0.0190,
+                            "value": 2500000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cost of Living Adjustments",
+            "rate": 0.0439,
+            "parentRate": 0.0439,
+            "color": "yellow",            
+            "children": [
+                {
+                    "name": "Provide 1.56 percent COLA for select K-12 categorical programs",
+                    "rate": 0.0245,
+                    "parentRate": 0.5589,
+                    "value": 76851000
+                },
+                {
+                    "name": "Provide 1.56 percent COLA for CCC apportionment, student programs",
+                    "rate": 0.0326,
+                    "parentRate": 0.7420,
+                    "value": 102030000
+                }
+            ]
+        }
+    ]
+}
